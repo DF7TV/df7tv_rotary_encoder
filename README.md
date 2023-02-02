@@ -11,6 +11,7 @@ Reference:
 
 [1] Buxton, Ben (2011): Rotary Encoder Handler for Arduino, v1.1,
 https://github.com/buxtronix/arduino/tree/master/libraries/Rotary
-(Ben Buxton’s README.md file facilitated the development
- of the new Quarter-Step State Transition Table)
+(Ben Buxton’s README.md file
+ https://github.com/buxtronix/arduino/blob/master/libraries/Rotary/README.md
+ facilitated the development of the new Quarter-Step State Transition Table)
  
