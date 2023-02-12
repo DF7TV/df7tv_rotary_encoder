@@ -14,6 +14,6 @@ Reference:
 https://github.com/buxtronix/arduino/tree/master/libraries/Rotary
 (Ben Buxton’s README.md file
  https://github.com/buxtronix/arduino/blob/master/libraries/Rotary/README.md
- describing his Full-Step and Half-Step state transition table 
+ describing his Full-Step and Half-Step state transition tables 
  facilitated the development of the new Quarter-Step state transition table)
  
